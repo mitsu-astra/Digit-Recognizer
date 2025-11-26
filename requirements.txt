@@ -1,0 +1,9 @@
+# requirements.txt
+torch
+torchvision
+torchaudio
+numpy
+matplotlib
+tqdm
+scikit-learn
+Pillow
